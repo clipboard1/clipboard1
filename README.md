@@ -1,7 +1,5 @@
 # 👋 Hi, my name is Sergey! 
 
----
-
 ## 👨‍💻 About me
 I am a junior web developer who is currently pursuing a master's degree at Tyumen Industrial University while simultaneously working for an IT company as a software engineer,
 
@@ -39,5 +37,3 @@ I am a junior web developer who is currently pursuing a master's degree at Tyume
 </div>
 </div>
 <br>
-
-* 🧠  I'm currently learning Blazor, ASP.NET Core, EF Core, and Angular
